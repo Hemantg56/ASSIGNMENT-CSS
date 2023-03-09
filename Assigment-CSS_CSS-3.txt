@@ -53,7 +53,7 @@ Ans. So for centering the element you must set left-margin to auto and right-mar
      Exp:- Margin: 100px Auto;
 
 12. How to maintain the CSS specifications?
-Ans. 
+Ans. CSS specifications are maintained by the World Wide Web Consortium (W3C).
 
 13. What are the ways to integrate CSS as a web page?
 Ans. CSS can be added to HTML documents in 3 ways:
